@@ -1,0 +1,21 @@
+﻿video_path,manipulation_type,video_emotion,audio_emotion,similarity_score
+00028_id05252_CMxIX3absYM.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00288_id00052_NK_leX996Yk.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00195_id01225_wavtolip.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00043_id07236_Fe0sdHw3sc4_id00235_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00015_id00187_dwaPMrJANMQ.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00159_id06437_3BZvvzBhj8s_id03985_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00011_id07039_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00195_id04561_wavtolip.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00028_id04705_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00083_id03713_wavtolip.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00130_id00559_Y7ovoKuvL78_faceswap_id01154_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00078_id06467_bN8jVda0Byw_id04691_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00019_id09053_wavtolip.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00077_id07136_4e43eS5p3_M_faceswap_id06437_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00187_id00559_Y7ovoKuvL78_faceswap.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00298_id05252_CMxIX3absYM_id00371_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00136_id00618__TwV2SmUIlY.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+06152_id06776_wavtolip.mp4,FakeVideo-RealAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00092_id01236_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 
+00078_id00518_qm7oQcDg4oI_id00173_wavtolip.mp4,FakeVideo-FakeAudio,Error,Error,⚠️ Librosa 오디오 디코딩 실패: 

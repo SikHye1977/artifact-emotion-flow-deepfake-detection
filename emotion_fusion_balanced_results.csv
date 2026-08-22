@@ -1,0 +1,101 @@
+﻿Video_Path,Manipulation_Type,Method,Is_Fake_Label,Predicted_Video_Emotion,Emotion_Similarity_Score
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id04073\00021_id00029_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Neutral,0.1697
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\men\id04561\00248_id06334_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Happiness,0.2133
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\men\id00088\00005_id01163_QSMeUEH3lJM_id00087_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Happiness,0.0997
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id03569\00065.mp4,RealVideo-RealAudio,real,0,Neutral,0.1588
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id01717\00005.mp4,RealVideo-RealAudio,real,0,Surprise,0.2388
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id01783\00015.mp4,RealVideo-RealAudio,real,0,Happiness,0.5995
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (East)\women\id06225\00005.mp4,RealVideo-RealAudio,real,0,Happiness,0.6009
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (East)\men\id04884\00028_id06467_bN8jVda0Byw.mp4,FakeVideo-RealAudio,fsgan,1,Anger,0.2518
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id00701\00092.mp4,RealVideo-RealAudio,real,0,Sadness,0.6495
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00328\00092.mp4,RealVideo-RealAudio,real,0,Sadness,0.2319
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\men\id00306\00015.mp4,RealVideo-RealAudio,real,0,Happiness,0.2333
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id05434\00052.mp4,RealVideo-RealAudio,real,0,Sadness,0.8273
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\men\id00732\00118_id04601_x4Apx8z6nOg_id06753_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Neutral,0.2557
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\women\id00618\00195.mp4,RealVideo-RealAudio,real,0,Disgust,0.6829
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\women\id00735\00037_id00330_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Fear,0.7271
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\men\id00049\00118.mp4,RealVideo-RealAudio,real,0,Neutral,0.7922
+FakeAVCeleb_v1.2\RealVideo-FakeAudio\Asian (South)\women\id06254\00043_fake.mp4,RealVideo-FakeAudio,rtvc,1,Surprise,0.2328
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00735\00037_id00188_e-vm5FB3idA_id03941_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Surprise,0.0706
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\men\id00414\00052.mp4,RealVideo-RealAudio,real,0,Sadness,0.2748
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\men\id00999\00028.mp4,RealVideo-RealAudio,real,0,Neutral,0.4255
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id03816\00093_id00633_UXrTMta1EDM_id00484_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Sadness,0.0567
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00179\00143_id00021_6uNNej-JZ-c.mp4,FakeVideo-RealAudio,fsgan,1,Neutral,0.183
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id07377\00025.mp4,RealVideo-RealAudio,real,0,Surprise,0.2826
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id06428\00043.mp4,RealVideo-RealAudio,real,0,Surprise,0.0673
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\men\id01156\00078_id00292_qELK8N_DykA_faceswap_id00183_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Neutral,0.0633
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id01002\00043.mp4,RealVideo-RealAudio,real,0,Disgust,0.2289
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00823\00125.mp4,RealVideo-RealAudio,real,0,Neutral,0.0582
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\men\id03757\00149_3_id00775_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Fear,0.1277
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id00043\00135.mp4,RealVideo-RealAudio,real,0,Fear,0.0631
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\men\id07165\00368_id00459_ubskcDDe7kM.mp4,FakeVideo-RealAudio,fsgan,1,Neutral,0.5317
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\women\id02466\00136.mp4,RealVideo-RealAudio,real,0,Sadness,0.7895
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id00781\00092.mp4,RealVideo-RealAudio,real,0,Anger,0.1441
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\men\id00018\00181_id03757_L-M-XbdFLQM_id00088_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Neutral,0.2839
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\men\id00020\00206.mp4,RealVideo-RealAudio,real,0,Anger,0.0439
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00395\00420_id00823_KgExwCvgrUk_faceswap_id00330_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Surprise,0.0899
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id03651\00092.mp4,RealVideo-RealAudio,real,0,Fear,0.6864
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\women\id01225\00300_id01227_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Fear,0.0521
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (East)\men\id07338\00003_id06470_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Surprise,0.0847
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\men\id00963\00028.mp4,RealVideo-RealAudio,real,0,Anger,0.3129
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id07136\00052.mp4,RealVideo-RealAudio,real,0,Neutral,0.5368
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id01392\00167.mp4,RealVideo-RealAudio,real,0,Neutral,0.2881
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id00173\00118.mp4,RealVideo-RealAudio,real,0,Surprise,0.0805
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\men\id01035\00012.mp4,RealVideo-RealAudio,real,0,Anger,0.4703
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\men\id04526\00317_3_id04599_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Sadness,0.0397
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (East)\men\id02332\00055.mp4,RealVideo-RealAudio,real,0,Surprise,0.7353
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\men\id00685\00146.mp4,RealVideo-RealAudio,real,0,Anger,0.2654
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (East)\men\id05479\05479_id08652_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Happiness,0.236
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id02310\00139.mp4,RealVideo-RealAudio,real,0,Surprise,0.4989
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (East)\men\id05332\00065_id00126_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Happiness,0.8102
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id04374\00032.mp4,RealVideo-RealAudio,real,0,Happiness,0.8214
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id03103\00130.mp4,RealVideo-RealAudio,real,0,Sadness,0.8372
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\women\id00180\00206.mp4,RealVideo-RealAudio,real,0,Anger,0.1211
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id01610\00090.mp4,RealVideo-RealAudio,real,0,Surprise,0.3206
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (East)\men\id01589\00017.mp4,RealVideo-RealAudio,real,0,Contempt,0.449
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id02508\00083.mp4,RealVideo-RealAudio,real,0,Disgust,0.5062
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\women\id00231\00037_id00428_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Surprise,0.5907
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00589\00130.mp4,RealVideo-RealAudio,real,0,Sadness,0.7667
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00060\00307_id04073_KT7B07WFWyM.mp4,FakeVideo-RealAudio,fsgan,1,Surprise,0.091
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\men\id00732\00118.mp4,RealVideo-RealAudio,real,0,Surprise,0.435
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\men\id01157\00048_id00554_crjq1dFN1Ko_faceswap_id01126_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Neutral,0.1336
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\African\women\id01907\00148_id04705_ziJ9JsYr4R0.mp4,FakeVideo-RealAudio,fsgan,1,Neutral,0.4408
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\African\men\id01933\00028_3_id00518_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Neutral,0.2368
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\women\id00234\00063_id03371_truKMXt8Dak.mp4,FakeVideo-RealAudio,fsgan,1,Disgust,0.1106
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (American)\women\id01217\00005.mp4,RealVideo-RealAudio,real,0,Disgust,0.0838
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (East)\men\id06467\00010_id00560_HCZHIOhZ6XM_id04111_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Surprise,0.1085
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id01248\00005_id01223_TO3ym8Gwp7k_id01231_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Happiness,0.6858
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\men\id00076\00109.mp4,RealVideo-RealAudio,real,0,Happiness,0.123
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id00428\00017_id02464_1hxJsZYV7mI_id01238_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Surprise,0.1047
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\men\id04526\00317_id00860_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Sadness,0.0708
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (East)\men\id02553\00043_id09143_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Happiness,0.2866
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00529\00409_id01124_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Neutral,0.6888
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id04939\00174.mp4,RealVideo-RealAudio,real,0,Happiness,0.9501
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\men\id04034\00009_id01172_8f8sdrQatpw_id00179_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Surprise,0.1203
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\men\id00860\00154.mp4,RealVideo-RealAudio,real,0,Anger,0.208
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\men\id01051\00322_id01102_aGFUkdgmo3A_faceswap_id01156_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Anger,0.1919
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\women\id04490\00054_id06437_3BZvvzBhj8s.mp4,FakeVideo-RealAudio,fsgan,1,Neutral,0.3417
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id00462\00143_id00835_zWTp4szbb5k_faceswap_id00385_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Sadness,0.8816
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\men\id07194\00014.mp4,RealVideo-RealAudio,real,0,Neutral,0.9131
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\men\id00548\00015_id00282_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Neutral,0.3908
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\men\id01156\00078_id00559_Y7ovoKuvL78.mp4,FakeVideo-RealAudio,fsgan,1,Anger,0.2639
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\women\id04583\00077_id02089_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Disgust,0.7017
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\women\id00188\00020_id03816_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Surprise,0.1232
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id02617\00028.mp4,RealVideo-RealAudio,real,0,Neutral,0.211
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\men\id00981\00092.mp4,RealVideo-RealAudio,real,0,Neutral,0.527
+FakeAVCeleb_v1.2\RealVideo-RealAudio\African\women\id02824\00130.mp4,RealVideo-RealAudio,real,0,Fear,0.2567
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\African\men\id01528\00017_id02040_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Neutral,0.4144
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id07008\00175.mp4,RealVideo-RealAudio,real,0,Neutral,0.3081
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00496\00015.mp4,RealVideo-RealAudio,real,0,Fear,0.2339
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00262\00028.mp4,RealVideo-RealAudio,real,0,Fear,0.5928
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\women\id04582\00180_id01026_wavtolip.mp4,FakeVideo-FakeAudio,wav2lip,1,Disgust,0.1132
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\men\id07108\00412_id00769_BqHVSZdoVpM_faceswap_id00732_wavtolip.mp4,FakeVideo-FakeAudio,faceswap-wav2lip,1,Neutral,0.1038
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\African\men\id01637\00002_id00366_RSOgEoek8WM.mp4,FakeVideo-RealAudio,fsgan,1,Fear,0.1987
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\women\id07686\00254_id07008_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Neutral,0.4843
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\African\women\id01661\00059_id02824_wavtolip.mp4,FakeVideo-RealAudio,wav2lip,1,Happiness,0.4476
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Asian (South)\women\id06752\00221.mp4,RealVideo-RealAudio,real,0,Happiness,0.4934
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id01239\00280_id01124_Lnf2oGSM00s.mp4,FakeVideo-RealAudio,fsgan,1,Sadness,0.6945
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\men\id00745\00165_id07161_OYWKr82Zu38_id04537_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Surprise,0.6616
+FakeAVCeleb_v1.2\RealVideo-RealAudio\Caucasian (European)\women\id00484\00202.mp4,RealVideo-RealAudio,real,0,Fear,0.5229
+FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (East)\men\id03889\00052_id02493_zYAm6W46Mcg.mp4,FakeVideo-RealAudio,fsgan,1,Neutral,0.3654
+FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (South)\women\id00747\00053_id04564_xUz03LwKRtQ_id07051_wavtolip.mp4,FakeVideo-FakeAudio,fsgan-wav2lip,1,Disgust,0.1889

@@ -1,0 +1,120 @@
+﻿scenario,strategy,group,N_fake,N_real,AUC,Acc,Prec,Recall,F1,N
+F→P (by TTS),X3D,Bark,90,521,44.2,85.11,0.0,0.0,0.0,611
+F→P (by TTS),AASIST,Bark,90,521,66.43,85.27,0.0,0.0,0.0,611
+F→P (by TTS),HSEmo,Bark,90,521,46.24,67.76,15.03,25.56,18.93,611
+F→P (by TTS),CRNN,Bark,90,521,63.0,80.2,27.54,21.11,23.9,611
+F→P (by TTS),Score_art,Bark,90,521,44.86,85.27,50.0,1.11,2.17,611
+F→P (by TTS),Score_emo,Bark,90,521,51.46,43.37,14.64,58.89,23.45,611
+F→P (by TTS),Score_final,Bark,90,521,49.49,31.42,13.85,70.0,23.12,611
+F→P (by TTS),X3D,MicroTts,100,521,49.03,84.06,66.67,2.0,3.88,621
+F→P (by TTS),AASIST,MicroTts,100,521,94.07,84.54,100.0,4.0,7.69,621
+F→P (by TTS),HSEmo,MicroTts,100,521,49.03,65.38,10.34,15.0,12.24,621
+F→P (by TTS),CRNN,MicroTts,100,521,78.6,84.54,51.92,54.0,52.94,621
+F→P (by TTS),Score_art,MicroTts,100,521,59.1,85.02,88.89,8.0,14.68,621
+F→P (by TTS),Score_emo,MicroTts,100,521,70.27,47.83,21.57,85.0,34.41,621
+F→P (by TTS),Score_final,MicroTts,100,521,72.2,35.75,19.18,93.0,31.79,621
+F→P (by TTS),X3D,Tacotron,98,521,48.34,84.65,80.0,4.08,7.77,619
+F→P (by TTS),AASIST,Tacotron,98,521,87.38,84.81,100.0,4.08,7.84,619
+F→P (by TTS),HSEmo,Tacotron,98,521,57.73,69.14,22.16,37.76,27.92,619
+F→P (by TTS),CRNN,Tacotron,98,521,58.25,79.48,29.58,21.43,24.85,619
+F→P (by TTS),Score_art,Tacotron,98,521,55.93,85.3,88.89,8.16,14.95,619
+F→P (by TTS),Score_emo,Tacotron,98,521,60.69,45.23,18.04,69.39,28.63,619
+F→P (by TTS),Score_final,Tacotron,98,521,61.53,33.93,17.12,82.65,28.37,619
+F→P (by TTS),X3D,Vall,88,521,41.54,85.39,0.0,0.0,0.0,609
+F→P (by TTS),AASIST,Vall,88,521,24.43,85.55,0.0,0.0,0.0,609
+F→P (by TTS),HSEmo,Vall,88,521,47.58,67.82,14.47,25.0,18.33,609
+F→P (by TTS),CRNN,Vall,88,521,64.73,79.64,21.88,15.91,18.42,609
+F→P (by TTS),Score_art,Vall,88,521,41.14,85.39,0.0,0.0,0.0,609
+F→P (by TTS),Score_emo,Vall,88,521,52.92,44.17,15.57,64.77,25.11,609
+F→P (by TTS),Score_final,Vall,88,521,49.77,31.69,14.04,72.73,23.53,609
+F→P (by TTS),X3D,Xtts,103,521,46.18,83.33,0.0,0.0,0.0,624
+F→P (by TTS),AASIST,Xtts,103,521,56.66,83.97,100.0,2.91,5.66,624
+F→P (by TTS),HSEmo,Xtts,103,521,58.06,68.43,21.69,34.95,26.77,624
+F→P (by TTS),CRNN,Xtts,103,521,66.97,80.77,39.76,32.04,35.48,624
+F→P (by TTS),Score_art,Xtts,103,521,50.39,83.81,75.0,2.91,5.61,624
+F→P (by TTS),Score_emo,Xtts,103,521,67.22,47.12,20.97,79.61,33.2,624
+F→P (by TTS),Score_final,Xtts,103,521,67.62,35.9,19.51,92.23,32.2,624
+F→P (by Sync),X3D,Wav2Lip,248,521,46.85,68.4,85.71,2.42,4.71,769
+F→P (by Sync),AASIST,Wav2Lip,248,521,66.5,68.27,100.0,1.61,3.17,769
+F→P (by Sync),HSEmo,Wav2Lip,248,521,50.0,59.56,34.01,27.02,30.11,769
+F→P (by Sync),CRNN,Wav2Lip,248,521,66.09,71.65,61.54,32.26,42.33,769
+F→P (by Sync),Score_art,Wav2Lip,248,521,52.0,69.18,92.31,4.84,9.2,769
+F→P (by Sync),Score_emo,Wav2Lip,248,521,61.41,50.59,36.42,71.37,48.23,769
+F→P (by Sync),Score_final,Wav2Lip,248,521,62.01,43.56,34.45,83.06,48.7,769
+F→P (by Sync),X3D,video_retalking,231,521,45.07,69.15,0.0,0.0,0.0,752
+F→P (by Sync),AASIST,video_retalking,231,521,66.85,70.21,100.0,3.03,5.88,752
+F→P (by Sync),HSEmo,video_retalking,231,521,54.07,60.77,33.67,28.57,30.91,752
+F→P (by Sync),CRNN,video_retalking,231,521,66.85,70.74,54.95,26.41,35.67,752
+F→P (by Sync),Score_art,video_retalking,231,521,49.11,70.21,88.89,3.46,6.67,752
+F→P (by Sync),Score_emo,video_retalking,231,521,60.41,50.53,35.22,72.73,47.46,752
+F→P (by Sync),Score_final,video_retalking,231,521,59.18,42.42,32.65,82.25,46.74,752
+F→P (by TTS×Sync),X3D,Bark × Wav2Lip,48,521,44.67,91.39,0.0,0.0,0.0,569
+F→P (by TTS×Sync),AASIST,Bark × Wav2Lip,48,521,65.53,91.56,0.0,0.0,0.0,569
+F→P (by TTS×Sync),HSEmo,Bark × Wav2Lip,48,521,47.15,71.0,9.09,27.08,13.61,569
+F→P (by TTS×Sync),CRNN,Bark × Wav2Lip,48,521,62.77,84.71,18.03,22.92,20.18,569
+F→P (by TTS×Sync),Score_art,Bark × Wav2Lip,48,521,45.11,91.39,0.0,0.0,0.0,569
+F→P (by TTS×Sync),Score_emo,Bark × Wav2Lip,48,521,54.47,42.36,8.58,60.42,15.03,569
+F→P (by TTS×Sync),Score_final,Bark × Wav2Lip,48,521,53.44,28.82,8.2,72.92,14.74,569
+F→P (by TTS×Sync),X3D,Bark × video_retalking,42,521,43.66,92.36,0.0,0.0,0.0,563
+F→P (by TTS×Sync),AASIST,Bark × video_retalking,42,521,67.46,92.54,0.0,0.0,0.0,563
+F→P (by TTS×Sync),HSEmo,Bark × video_retalking,42,521,45.2,71.23,7.14,23.81,10.99,563
+F→P (by TTS×Sync),CRNN,Bark × video_retalking,42,521,63.25,85.08,13.79,19.05,16.0,563
+F→P (by TTS×Sync),Score_art,Bark × video_retalking,42,521,44.57,92.54,50.0,2.38,4.55,563
+F→P (by TTS×Sync),Score_emo,Bark × video_retalking,42,521,48.02,41.92,7.21,57.14,12.8,563
+F→P (by TTS×Sync),Score_final,Bark × video_retalking,42,521,44.97,27.89,6.67,66.67,12.12,563
+F→P (by TTS×Sync),X3D,MicroTts × Wav2Lip,49,521,49.41,91.58,66.67,4.08,7.69,570
+F→P (by TTS×Sync),AASIST,MicroTts × Wav2Lip,49,521,94.67,91.4,0.0,0.0,0.0,570
+F→P (by TTS×Sync),HSEmo,MicroTts × Wav2Lip,49,521,44.86,69.82,5.11,14.29,7.53,570
+F→P (by TTS×Sync),CRNN,MicroTts × Wav2Lip,49,521,84.61,88.6,40.48,69.39,51.13,570
+F→P (by TTS×Sync),Score_art,MicroTts × Wav2Lip,49,521,61.1,91.93,80.0,8.16,14.81,570
+F→P (by TTS×Sync),Score_emo,MicroTts × Wav2Lip,49,521,74.62,44.56,11.97,85.71,21.0,570
+F→P (by TTS×Sync),Score_final,MicroTts × Wav2Lip,49,521,75.86,30.7,10.5,93.88,18.89,570
+F→P (by TTS×Sync),X3D,MicroTts × video_retalking,51,521,48.66,90.91,0.0,0.0,0.0,572
+F→P (by TTS×Sync),AASIST,MicroTts × video_retalking,51,521,93.49,91.78,100.0,7.84,14.55,572
+F→P (by TTS×Sync),HSEmo,MicroTts × video_retalking,51,521,53.04,69.76,5.8,15.69,8.47,572
+F→P (by TTS×Sync),CRNN,MicroTts × video_retalking,51,521,72.84,85.84,28.57,39.22,33.06,572
+F→P (by TTS×Sync),Score_art,MicroTts × video_retalking,51,521,57.18,91.61,80.0,7.84,14.29,572
+F→P (by TTS×Sync),Score_emo,MicroTts × video_retalking,51,521,66.09,44.58,12.22,84.31,21.34,572
+F→P (by TTS×Sync),Score_final,MicroTts × video_retalking,51,521,68.69,30.77,10.71,92.16,19.18,572
+F→P (by TTS×Sync),X3D,Tacotron × Wav2Lip,50,521,51.5,91.77,80.0,8.0,14.55,571
+F→P (by TTS×Sync),AASIST,Tacotron × Wav2Lip,50,521,89.4,91.42,100.0,2.0,3.92,571
+F→P (by TTS×Sync),HSEmo,Tacotron × Wav2Lip,50,521,54.74,71.28,10.96,32.0,16.33,571
+F→P (by TTS×Sync),CRNN,Tacotron × Wav2Lip,50,521,54.79,84.06,15.25,18.0,16.51,571
+F→P (by TTS×Sync),Score_art,Tacotron × Wav2Lip,50,521,58.98,91.94,83.33,10.0,17.86,571
+F→P (by TTS×Sync),Score_emo,Tacotron × Wav2Lip,50,521,56.15,42.73,9.38,64.0,16.37,571
+F→P (by TTS×Sync),Score_final,Tacotron × Wav2Lip,50,521,58.56,29.6,9.26,80.0,16.6,571
+F→P (by TTS×Sync),X3D,Tacotron × video_retalking,48,521,45.04,91.39,0.0,0.0,0.0,569
+F→P (by TTS×Sync),AASIST,Tacotron × video_retalking,48,521,85.27,92.09,100.0,6.25,11.76,569
+F→P (by TTS×Sync),HSEmo,Tacotron × video_retalking,48,521,60.86,72.41,13.91,43.75,21.11,569
+F→P (by TTS×Sync),CRNN,Tacotron × video_retalking,48,521,61.86,84.89,19.35,25.0,21.82,569
+F→P (by TTS×Sync),Score_art,Tacotron × video_retalking,48,521,52.76,91.92,75.0,6.25,11.54,569
+F→P (by TTS×Sync),Score_emo,Tacotron × video_retalking,48,521,65.42,43.59,10.43,75.0,18.32,569
+F→P (by TTS×Sync),Score_final,Tacotron × video_retalking,48,521,64.63,29.88,9.47,85.42,17.05,569
+F→P (by TTS×Sync),X3D,Vall × Wav2Lip,49,521,41.7,91.23,0.0,0.0,0.0,570
+F→P (by TTS×Sync),AASIST,Vall × Wav2Lip,49,521,24.09,91.4,0.0,0.0,0.0,570
+F→P (by TTS×Sync),HSEmo,Vall × Wav2Lip,49,521,41.87,70.53,7.8,22.45,11.58,570
+F→P (by TTS×Sync),CRNN,Vall × Wav2Lip,49,521,64.89,84.56,18.03,22.45,20.0,570
+F→P (by TTS×Sync),Score_art,Vall × Wav2Lip,49,521,41.3,91.23,0.0,0.0,0.0,570
+F→P (by TTS×Sync),Score_emo,Vall × Wav2Lip,49,521,51.83,42.63,9.12,63.27,15.94,570
+F→P (by TTS×Sync),Score_final,Vall × Wav2Lip,49,521,49.68,28.6,7.98,69.39,14.32,570
+F→P (by TTS×Sync),X3D,Vall × video_retalking,39,521,41.34,92.86,0.0,0.0,0.0,560
+F→P (by TTS×Sync),AASIST,Vall × video_retalking,39,521,24.85,93.04,0.0,0.0,0.0,560
+F→P (by TTS×Sync),HSEmo,Vall × video_retalking,39,521,54.75,71.79,7.8,28.21,12.22,560
+F→P (by TTS×Sync),CRNN,Vall × video_retalking,39,521,64.54,84.64,5.66,7.69,6.52,560
+F→P (by TTS×Sync),Score_art,Vall × video_retalking,39,521,40.95,92.86,0.0,0.0,0.0,560
+F→P (by TTS×Sync),Score_emo,Vall × video_retalking,39,521,54.29,42.5,7.76,66.67,13.9,560
+F→P (by TTS×Sync),Score_final,Vall × video_retalking,39,521,49.89,28.39,7.11,76.92,13.02,560
+F→P (by TTS×Sync),X3D,Xtts × Wav2Lip,52,521,46.84,90.75,0.0,0.0,0.0,573
+F→P (by TTS×Sync),AASIST,Xtts × Wav2Lip,52,521,58.81,91.45,100.0,5.77,10.91,573
+F→P (by TTS×Sync),HSEmo,Xtts × Wav2Lip,52,521,60.58,71.73,13.33,38.46,19.8,573
+F→P (by TTS×Sync),CRNN,Xtts × Wav2Lip,52,521,63.71,84.82,23.08,28.85,25.64,573
+F→P (by TTS×Sync),Score_art,Xtts × Wav2Lip,52,521,53.15,91.27,75.0,5.77,10.71,573
+F→P (by TTS×Sync),Score_emo,Xtts × Wav2Lip,52,521,69.48,44.5,12.22,82.69,21.29,573
+F→P (by TTS×Sync),Score_final,Xtts × Wav2Lip,52,521,71.82,31.41,11.51,98.08,20.61,573
+F→P (by TTS×Sync),X3D,Xtts × video_retalking,51,521,45.5,90.91,0.0,0.0,0.0,572
+F→P (by TTS×Sync),AASIST,Xtts × video_retalking,51,521,54.47,91.08,0.0,0.0,0.0,572
+F→P (by TTS×Sync),HSEmo,Xtts × video_retalking,51,521,55.48,71.15,10.96,31.37,16.24,572
+F→P (by TTS×Sync),CRNN,Xtts × video_retalking,51,521,70.29,85.49,26.47,35.29,30.25,572
+F→P (by TTS×Sync),Score_art,Xtts × video_retalking,51,521,47.57,90.91,0.0,0.0,0.0,572
+F→P (by TTS×Sync),Score_emo,Xtts × video_retalking,51,521,64.91,43.88,11.21,76.47,19.55,572
+F→P (by TTS×Sync),Score_final,Xtts × video_retalking,51,521,63.34,30.24,10.09,86.27,18.07,572

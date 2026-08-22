@@ -1,0 +1,15 @@
+﻿granularity,n_fake,strategy,auc,acc,precision,recall,f1
+Full-sentence (VITS+YourTTS),418,X3D,49.4,37.57,66.67,0.48,0.95
+Full-sentence (VITS+YourTTS),418,AASIST,91.44,56.74,100.0,30.86,47.17
+Full-sentence (VITS+YourTTS),418,HSEmotion,47.94,47.16,61.57,41.39,49.5
+Full-sentence (VITS+YourTTS),418,CRNN,49.45,40.27,63.01,11.0,18.74
+Full-sentence (VITS+YourTTS),418,Score_art,83.84,56.74,99.24,31.1,47.36
+Full-sentence (VITS+YourTTS),418,Score_emo,49.19,52.69,62.88,59.57,61.18
+Full-sentence (VITS+YourTTS),418,Score_final,63.63,62.43,67.96,75.6,71.57
+Word-level (VITS_word+YourTTS_word),82,X3D,51.9,75.0,0.0,0.0,0.0
+Word-level (VITS_word+YourTTS_word),82,AASIST,88.04,78.92,100.0,14.63,25.53
+Word-level (VITS_word+YourTTS_word),82,HSEmotion,51.25,55.12,27.52,50.0,35.5
+Word-level (VITS_word+YourTTS_word),82,CRNN,56.32,72.29,38.64,20.73,26.98
+Word-level (VITS_word+YourTTS_word),82,Score_art,81.04,78.61,92.31,14.63,25.26
+Word-level (VITS_word+YourTTS_word),82,Score_emo,54.38,49.7,29.67,75.61,42.61
+Word-level (VITS_word+YourTTS_word),82,Score_final,60.12,50.6,31.02,81.71,44.97

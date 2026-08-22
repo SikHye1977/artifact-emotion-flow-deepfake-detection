@@ -1,0 +1,130 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+.env
+conda-env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datasets
+AV-Deepfake1M_RootFiles/
+PolyGlotFake/
+PolyGlotFake_dataset/
+FakeAVCeleb/
+FakeAVCeleb_v1.2/
+dfdc_train_part_00/
+archive/
+train_sample_videos/
+test_videos/
+test_videos2/
+
+# Checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.flac
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Generated caches
+cache/
+cache_*/
+*_cache/
+**/cache/
+**/cache_*/
+**/*_cache/
+**/features/
+**/feature_cache/
+**/frames/
+**/audio_cache/
+
+# Large per-sample outputs
+**/predictions.csv
+**/*_predictions.csv
+
+# Runtime logs
+*.log
+*.out
+nohup.out
+
+# Temporary files
+*.tmp
+*.temp
+*.part
+
+# Per-epoch prediction/training logs
+X3D_prediction_logs/
+aasist_prediction_logs/
+audio_flow_logs/
+emotion_lite_logs/
+emotion_train_logs/
+x3a_fusion_logs/
+
+*_log.txt
+fav_breakdown_log.txt
+
+# Attributor generated experiments
+Attributor/features/
+Attributor/logs_*/
+Attributor/runs_*/
+
+# NLP generated datasets and caches
+NLP_architecture/*dataset*.csv
+NLP_architecture/**/*dataset*.csv
+NLP_architecture/**/*cache*.json
+NLP_architecture/**/*_results.json
+NLP_architecture/**/*.pkl
+
+# MAE-DFER downloaded data/checkpoints
+mae_dfer/saved/
+
+# SyncNet downloaded weights
+syncnet_python/data/*.model
+syncnet_python/detectors/**/weights/
+
+# Generated local manifests that are too noisy/large
+code_manifest.txt
+hardcoded_paths.txt
+
+# Nested repository backups, if created
+**/.git.vendor-backup/
+
+/aasist/
+/mae_dfer/
+
+/syncnet_python/
+
+# Unpublished manuscript
+docs/*.pdf
+
+# Per-sample evaluation outputs containing local dataset paths
+NLP_architecture/unified_experiment/results/eval*.json
+
+# Local training console logs
+reverse_zero_shot/log_*.txt
