@@ -23,10 +23,22 @@ Branches:
 
 Datasets and checkpoints are not included in Git.
 
-Expected project path:
-~/hsh/AIApplication
+The workstation migration layout, pinned external repositories, and validation
+order are documented in `docs/WORKSTATION_MIGRATION.md`. On that workstation,
+the repository belongs on the SSD at:
 
-Expected dataset paths:
-~/hsh/AIApplication/FakeAVCeleb_v1.2
-~/hsh/AIApplication/PolyGlotFake
-~/hsh/AIApplication/AV-Deepfake1M_RootFiles
+```text
+/home/sikhye/workspace/artifact-emotion-flow-deepfake-detection
+```
+
+Datasets, checkpoints, caches, and extracted features belong under the dedicated
+research directory on the 4 TB HDD:
+
+```text
+/home/hdd1/sikhye/deepfake-research
+```
+
+Some legacy entry points may still expect dataset directories named
+`FakeAVCeleb_v1.2`, `PolyGlotFake`, or `AV-Deepfake1M_RootFiles` beneath the
+project root. Prefer configurable dataset roots; use symlinks only when needed
+for compatibility.
